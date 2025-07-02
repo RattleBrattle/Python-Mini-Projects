@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\",
+  "WorkspaceRootPath": "G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\Library.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\Library.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|solutionrelative:Library.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\OOP___Library_App.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\OOP___Library_App.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{201CB888-F525-442C-9AFE-85E9CB4B924B}|OOP - Library App.pyproj|solutionrelative:OOP___Library_App.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Library.py",
-              "DocumentMoniker": "G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\Library.py",
+              "DocumentMoniker": "G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\Library.py",
               "RelativeDocumentMoniker": "Library.py",
-              "ToolTip": "G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\Library.py",
+              "ToolTip": "G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\Library.py",
               "RelativeToolTip": "Library.py",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAkwJAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwJAAAAA+AAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-06-26T08:29:36.497Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OOP___Library_App.py",
-              "DocumentMoniker": "G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\OOP___Library_App.py",
+              "DocumentMoniker": "G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\OOP___Library_App.py",
               "RelativeDocumentMoniker": "OOP___Library_App.py",
-              "ToolTip": "G:\\Work Files\\Visual Studio\\Python\\OOP - library app\\OOP - Library App\\OOP___Library_App.py",
+              "ToolTip": "G:\\Work Files\\Github Repositories\\Mini Python Applications\\Python-Mini-Projects\\OOP - library app\\OOP - Library App\\OOP___Library_App.py",
               "RelativeToolTip": "OOP___Library_App.py",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
