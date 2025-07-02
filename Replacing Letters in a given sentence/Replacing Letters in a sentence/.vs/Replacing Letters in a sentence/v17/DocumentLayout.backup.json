@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6801ACC-9D27-477B-9891-44DF475F4DFF}|Replacing Letters in a sentence.pyproj|G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Replacing_Letters_in_a_sentence.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6801ACC-9D27-477B-9891-44DF475F4DFF}|Replacing Letters in a sentence.pyproj|solutionrelative:Replacing_Letters_in_a_sentence.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6801ACC-9D27-477B-9891-44DF475F4DFF}|Replacing Letters in a sentence.pyproj|G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6801ACC-9D27-477B-9891-44DF475F4DFF}|Replacing Letters in a sentence.pyproj|solutionrelative:Functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.py",
+              "DocumentMoniker": "G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Functions.py",
+              "RelativeDocumentMoniker": "Functions.py",
+              "ToolTip": "G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Functions.py",
+              "RelativeToolTip": "Functions.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-06T06:57:52.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Replacing_Letters_in_a_sentence.py",
+              "DocumentMoniker": "G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Replacing_Letters_in_a_sentence.py",
+              "RelativeDocumentMoniker": "Replacing_Letters_in_a_sentence.py",
+              "ToolTip": "G:\\Work Files\\Visual Studio\\Python\\Replacing Letters in a given sentence\\Replacing Letters in a sentence\\Replacing_Letters_in_a_sentence.py",
+              "RelativeToolTip": "Replacing_Letters_in_a_sentence.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-06T06:52:22.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
