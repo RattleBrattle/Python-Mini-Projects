@@ -32,7 +32,7 @@ Interface Functions: Bridge between user input and library operations
   - Borrow and return books
   - Automatic status toggling
 
-- 🛠 **Error Handling**
+- **Error Handling**
   - Input validation for all user interactions
   - Clear error messages
 
@@ -40,9 +40,12 @@ Interface Functions: Bridge between user input and library operations
 A Python program that modifies strings by replacing letters or words based on user input.
 #### Key Functions
 **switch_letters()** - Character-by-character replacement
+
 **switch_words()** - Whole word substitution
+
 **switch_letter_number()** - Letter-to-number conversion
-Input validators (get_valid_*) ensure clean data
+
+**Input validators** (get_valid_*) ensure clean data
 
 ## Features
 - **Letter Replacement**
